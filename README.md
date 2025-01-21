@@ -6,7 +6,7 @@ This project demonstrates how **AWS QuickSight**, Amazon's cloud-based business 
 
 ## 📸 Dashboard Screenshot
 
-Here is the complete dashboard created using AWS QuickSight. Explore the complete project documentation [here](Kanika's Documentation for Visualize Data using QuickSight.pdf).
+Here is the complete dashboard created using AWS QuickSight. Explore the complete project documentation [here](Kanika's%20Documentation%20for%20Visualize%20Data%20using%20QuickSight.pdf).
 
 ![Netflix Dashboard](/dashboard_screenshot.png)
 

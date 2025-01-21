@@ -6,7 +6,7 @@ This project demonstrates how **AWS QuickSight**, Amazon's cloud-based business 
 
 ## 📸 Dashboard Screenshot
 
-Here is the complete dashboard created using AWS QuickSight:
+Here is the complete dashboard created using AWS QuickSight. Explore the complete project documentation [here](Kanika's Documentation for Visualize Data using QuickSight.pdf).
 
 ![Netflix Dashboard](/dashboard_screenshot.png)
 
@@ -38,11 +38,11 @@ Here is the complete dashboard created using AWS QuickSight:
    - Sign up for QuickSight account.
    - Enabled QuickSight access to the S3 bucket.
 
-4. **Create Visualizations**:
+3. **Create Visualizations**:
   - Add fields to the **AutoGraph** section for automatic chart creation.
    - Use filters to refine data for analysis.
 
-5. **Publish and Export Dashboard**:
+4. **Publish and Export Dashboard**:
    - Edited chart titles for clarity.
    - Published the final dashboard and exported it for sharing insights.
 
